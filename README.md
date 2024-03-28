@@ -11,7 +11,7 @@
 - [Francisco Thiago](https://github.com/thhiago09)
 - [Levi Faleh](https://github.com/LeviFaleh)
 - [João Pedro Silva](https://github.com/joaopedrosilva23)
-##  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Professor:
+##  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmoya3lteXBxdWxqNHdmNTZuZWN0anRqMXlwNW03bnNkODd2YmZxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KeQf3wNoXaft4IhWcW/giphy.gif" width="35"><b> Professor:
 - Roger Moura Sarmento.
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Linguagem utilizada:
