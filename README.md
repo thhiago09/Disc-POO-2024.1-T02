@@ -1,9 +1,10 @@
-# Disc-POO-2024.1-T01
+# Disc-POO-2024.1-T02
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWdoMDY5aDhpcXplZ2F3MDF4YmdrcjJscG0yZXVsb3FtbnRiMHZ3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Exth4v6m9wexvz3oPK/giphy.gif" width="35"><b> Listas de Exercícios da disciplina de Programação Orientada a Objetos
 
-- [Lista 01](https://github.com/LeviFaleh/Disc-POO-2024.1-T01):TODOS os Exercícios Resolvidos e 10 Exercícios Propostos (sorteados aleatoriamente). <br>
- • Cap. 03 (Estrutura Sequencial)
+- [Lista 02](https://github.com/LeviFaleh/Disc-POO-2024.1-T02.git):TODOS os Exercícios Resolvidos e 10 Exercícios Propostos (sorteados aleatoriamente). <br>
+ • Cap. 04 (Estrutura Condicional)
+ • Cap. 05 (Estrutura Repetição)
 
 
 ##  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWdoMDY5aDhpcXplZ2F3MDF4YmdrcjJscG0yZXVsb3FtbnRiMHZ3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Exth4v6m9wexvz3oPK/giphy.gif" width="35"><b>Equipe:
